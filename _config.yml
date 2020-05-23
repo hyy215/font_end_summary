@@ -1,3 +1,23 @@
 theme: jekyll-theme-slate
 
 kramdown: input: GFM  # 启用 markdown
+
+# Site settings
+title: Hyy 前端总结文档    			 #博客的标题
+SEOTitle: Hyy 前端总结文档     	 #显示在浏览器上搜索的时候显示的标题
+email: hyy215215@163.com	
+description: "前端总结文档"  		 #网站介绍
+keyword: "前端总结文档"          #关键词
+url: "https://hyysb.github.io/font_end_summary/"          # 这个就是填写你的博客地址
+baseurl: ""      # 这个不用填写
+
+
+# Sidebar settings
+sidebar: true                              # 是否开启侧边栏.
+sidebar-about-description: "说点装逼的话。。。"
+sidebar-avatar:/img/avatar-by.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
+
+# SNS settings
+RSS: false
+github_username: hyysb
+juejin_username:	YYYYY
